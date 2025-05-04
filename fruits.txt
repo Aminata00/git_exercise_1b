@@ -1,3 +1,5 @@
 apple
 pomegranate
 orange
+watermelon
+kiwi
